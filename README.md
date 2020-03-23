@@ -1,4 +1,10 @@
+### Overall Score : 4/5
+#### Attempted Problems : 5
+#### Pushing : Consistent
+#### General Comments : Nice job, make sure you're fully completing each requirement
+
 # 20-03-17 React Forms Events IC
+#### Look good!
 - Create a new react app called `recipe-app`
 - Create a class based component called `AppContainer` and render it on the page
 - Create a component called `Header` that displays an h1 tag with the text `Welcome to [NAME]'s Recipe Site!
